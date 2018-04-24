@@ -70,7 +70,7 @@ function breaker($url,$homedate,$wait_time){
   $url = "https://www.youtube.com/watch?v=gxSx3h9GKgo";#Kwata kawaya - kasolo's favourite :)
 
   //Let's assume that Kasolo works until 5pm - we will utilise this to stop the script
-  $homedate = date("Y-m-d") . ' 13:21';
+  $homedate = date("Y-m-d") . ' 16:09';
 
   //how long until the next interrupt?
   //for testing, keep it something small - like 10 seconds
